@@ -17,7 +17,10 @@
         {
             "background_music":
             [
-                "music/track_1.mp3"
+                "music/track_1.mp3",
+                "music/track_2.mp3",
+                "music/track_3.mp3",
+                "music/track_4.mp3"
             ],
             "browser_sounds":
             {
@@ -130,30 +133,30 @@
                 {
                     "gx_accent":
                     {
-                        "h": 85,
-                        "s": 100,
-                        "l": 72
+                        "h": 36,
+                        "s": 86,
+                        "l": 41
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
-                        "s": 64,
-                        "l": 16
+                        "h": 60,
+                        "s": 19,
+                        "l": 36
                     }
                 },
                 "light":
                 {
                     "gx_accent":
                     {
-                        "h": 112,
+                        "h": 40,
                         "s": 80,
-                        "l": 44
+                        "l": 53
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
-                        "s": 32,
-                        "l": 16
+                        "h": 38,
+                        "s": 22,
+                        "l": 57
                     }
                 }
             },
