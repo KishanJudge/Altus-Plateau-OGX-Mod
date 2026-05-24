@@ -164,16 +164,16 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/dark.jpg",
-                    "text_color": "#FFFFFF",
-                    "text_shadow": "#757575"
+                    "image": "wallpaper/video_fixed.webm",
+                    "first_frame": "wallpaper/first_frame.jpg",
+                    "text_color": "#F0E6C8",
+                    "text_shadow": "#1A0F00"
                 },
                 "light":
                 {
-                    "image": "wallpaper/video.webm",
-                    "first_frame": "wallpaper/first_frame.jpg",
-                    "text_color": "#FFFFFF",
-                    "text_shadow": "#0B000E"
+                    "image": "wallpaper/light.jpg",
+                    "text_color": "#2C1F0A",
+                    "text_shadow": "#C8A050"
                 }
             }
         },
