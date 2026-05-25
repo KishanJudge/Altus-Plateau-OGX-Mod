@@ -164,7 +164,7 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/video_fixed.webm",
+                    "image": "wallpaper/output_loop.webm",
                     "first_frame": "wallpaper/first_frame.jpg",
                     "text_color": "#F0E6C8",
                     "text_shadow": "#1A0F00"
